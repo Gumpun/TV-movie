@@ -61,7 +61,7 @@ http://160.119.77.116:8081/iptv/hd-foxpremium.stream/playlist.m3u8
 https://doofootball.livestream-cdn.com/iptv/sd-fox.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075841.jpg",Fox Thai
-http://160.119.77.116:8081/iptv/sd-fox.stream/playlist.m3u8
+https://mediasv.online/tvchannel_x1/foxthai/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny81LzIwMjEgMTI6NDk6MTMgQU0maGFzaF92YWx1ZT1hZXdwckEyUXN6U0hsVjdrVy9kNjVRPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTIwJmlkPWNoXzU0OTQ0
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",Fox Action
 https://doofootball.livestream-cdn.com/iptv/hd-foxaction.stream/playlist.m3u8
@@ -69,7 +69,7 @@ https://doofootball.livestream-cdn.com/iptv/hd-foxaction.stream/playlist.m3u8
 http://160.119.77.116:8081/iptv/hd-foxaction.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/fox-life.png", FOX Life
-http://160.119.77.116:8081/iptv/hd-foxlife.stream/playlist.m3u8
+https://mediasv.online/tvchannel_x1/hd-foxlife/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny81LzIwMjEgMTI6NDk6MjYgQU0maGFzaF92YWx1ZT0vRTRKd1JEa2Z4WW4vejRtcysvT2ZnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTIzJmlkPWNoXzQ0Nzkz
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/Asset-194.png", Star Chinese Movies
 http://160.119.77.116:8081/iptv/hd-starchinese.stream/playlist.m3u8
