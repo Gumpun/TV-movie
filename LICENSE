@@ -81,12 +81,9 @@ http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8 
 
 #EXTINF:-1 group-title="Movie"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+https://r4-sn-w5nuxa-o53d.googlevideocdn.com/entertainment/cinemax/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny81LzIwMjEgMjo0NjozOSBBTSZoYXNoX3ZhbHVlPWlKaTFJRWY2UHNiMTF2azgyZjU5L2c9PSZ2YWxpZG1pbnV0ZXM9MjA=
 #EXTINF:-1 group-title="Movie"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax
-http://dootvthai-hd.com/cmd/api/hbo/maxhd/playlist.m3u8
-
-#EXTINF:-1 group-title="Movie" tvg-logo="http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png",Channel 8
-http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
+https://www.we-play.live/watching/tv/cinemax
 
 #EXTINF:-1 group-title="Movie" tvg-logo="https://i.postimg.cc/pXM9pyqH/axn.jpg",AXN (true visions)
 https://www.we-play.live/watching/tv/axn-hd
