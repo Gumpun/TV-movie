@@ -1,24 +1,198 @@
-This is free and unencumbered software released into the public domain.
+#EXTM3U
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+#Movie & Series IPTV
 
-For more information, please refer to <https://unlicense.org>
+#EXTINF:-1 group-title="Movie" tvg-logo="https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",TV CABLE 4
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",TV CABLE 5
+http://www.m-channel.com:1935/live/my_stream.sdp/chunklist_w439724723.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://3.imimg.com/data3/DC/FJ/MY-3286949/local-cable-tv-adds-250x250.jpg",TV CABLE 6(CHANNEL8)
+http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
+
+#EXTINF:-1 group-title="Movie"tvg-logo="http://www.xn--l3cgga3dk6ba3eb4b5joe.net/wp-content/uploads/2012/02/m-channel.jpg",M Channel
+http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie"tvg-logo="http://www.xn--l3cgga3dk6ba3eb4b5joe.net/wp-content/uploads/2012/02/m-channel.jpg",M Channel
+https://cdn6.goprimetime.info/feed/chmchannel/index.m3u8
+
+#EXTINF:-1 group-title="Movie"tvg-logo="http://www.xn--l3cgga3dk6ba3eb4b5joe.net/wp-content/uploads/2012/02/m-channel.jpg",M Channel
+http://27.254.130.61/live01/ch19.m3u8?p=st
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-11-084652.jpg",TVB ไทย
+https://edge6a.v2h-cdn.com/RE_HD/smil:TVB_HD_ABR.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-11-084652.jpg",TVB ไทย
+https://edge6a.v2h-cdn.com:443/appt7/TDramaTV.stream_720p/iptv-ton.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-11-084652.jpg",TVB ไทย
+https://edge6a.v2h-cdn.com/m2a7/TDramaTV.stream_720p/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://blob.panzoid.com/creation-thumbnails/97670.jpg",HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://blob.panzoid.com/creation-thumbnails/97670.jpg",HBO TH
+https://mediasv.online/premium/hd-hbo-thai/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny81LzIwMjEgMTI6MzY6NTYgQU0maGFzaF92YWx1ZT0wS2U1bmF3NlJSQ2ZDY3J1R1duVUV3PT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTE5JmlkPWNoXzQ4NjI5
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-04-071906.jpg",HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-04-071906.jpg",HBO Family
+https://mediasv.online/tvchannel_x1/hbo-family/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny81LzIwMjEgMTI6Mzk6MzAgQU0maGFzaF92YWx1ZT1jYmhLWmRVdU0xNGdIaC9pL0FtQTJnPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTIzJmlkPWNoXzk4MzU0
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-22-083214.jpg",HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-10-22-083214.jpg",HBO Signature
+http://dootvthai-hd.com/cmd/api/hbo/sighd/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg",HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg",HBO Hits
+http://dootvthai-hd.com/cmd/api/hbo/hitshd/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-06-103156.jpg",FOX​ MOVIE​
+https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-06-103156.jpg",FOX​ MOVIE​
+http://160.119.77.116:8081/iptv/hd-foxpremium.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075841.jpg",Fox Thai
+https://doofootball.livestream-cdn.com/iptv/sd-fox.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-08-075841.jpg",Fox Thai
+http://160.119.77.116:8081/iptv/sd-fox.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",Fox Action
+https://doofootball.livestream-cdn.com/iptv/hd-foxaction.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxaction.png",Fox Action
+http://160.119.77.116:8081/iptv/hd-foxaction.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/fox-life.png", FOX Life
+http://160.119.77.116:8081/iptv/hd-foxlife.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/Asset-194.png", Star Chinese Movies
+http://160.119.77.116:8081/iptv/hd-starchinese.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-01-020855.jpg",CTB
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-01-020855.jpg",CTB
+http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8 
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
+#EXTINF:-1 group-title="Movie"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax
+http://dootvthai-hd.com/cmd/api/hbo/maxhd/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="http://www.channel8thailand.com/img/18378709_1492777084098686_554998105_o.png",Channel 8
+http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.postimg.cc/pXM9pyqH/axn.jpg",AXN (true visions)
+https://doofootball.livestream-cdn.com/iptv/hd-axn.stream/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://i.postimg.cc/pXM9pyqH/axn.jpg",AXN
+http://136.243.177.164/AXN/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://f.ptcdn.info/741/071/000/qkd0885sqMBhQa1NxDw-o.jpg",SUN MOVIES
+https://cdn6.goprimetime.info/feed/LC1/index.m3u8 
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://f.ptcdn.info/741/071/000/qkd0885sqMBhQa1NxDw-o.jpg",SUN MOVIES
+http://61.19.242.134:80/feed/LC1/index.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-06-104010.jpg",SAMURAI
+https://cdn6.goprimetime.info/feed/LC2/index.m3u8 
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-06-104010.jpg",SAMURAI
+http://61.19.242.134:80/feed/LC2/index.m3u8
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-06-103341.jpg",BOX​FILM
+https://cdn6.goprimetime.info/feed/LC52/index.m3u8 
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-06-103341.jpg",BOX​FILM
+http://61.19.242.134:80/feed/LC52/index.m3u8
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-08-092045.jpg",SANOOK MOVIES
+https://cdn6.goprimetime.info/feed//LC53/index.m3u8
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://il.mahidol.ac.th/upload/img/2021-01-08-092045.jpg",SANOOK MOVIES
+http://61.19.242.134:80/feed/LC53/index.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTok84GbwFSi9l3qYc4KaHZNoEMHtQaMjh46el3e77M6YsOMssw&usqp=CAU",&FlixHd
+https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcREtBfjW210fg6jxp7rqXNYivMGTs35g24enfDNLwicMw6SbTk4&usqp=CAU",&PriveHd
+https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c2/Docurama_Logo_August_2015.jpg/220px-Docurama_Logo_August_2015.jpg",Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/1920x1080_4528000/chunklist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://blog.tivo.com/wp-content/uploads/2020/03/frmovies-1-300x300-1024x1024.jpg",Filmrise Movies
+https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/1280x720_5000000/chunklist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSfZgc8zGQD1O3B3lVAiWYIMzHU89GCC6u4ZXL48Fm7Jho61-4i&usqp=CAU",Hi Yah!(หนังจีน)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxhi-ya/CDN/1280x720_5000000/index.m3u8
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSman15dlwm45o0ZqwCPJ0FSjJ-G9t5W2AgD6hNZ1EdIkxlx4ZR&usqp=CAU",Screamfest
+https://vcnleomarkstudios.teleosmedia.com/stream/leomarkstudios/screamfest/seglist_720p.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://americanhorrors.com/wp-content/uploads/2017/05/advertise-with-american-horrors.png",American Horrors
+http://170.178.189.66:1935/live/Stream1/chunklist_w1292014337.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704746.jpeg",Warner TV
+http://160.119.77.116:8081/iptv/hd-warnertv.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-10-024952.jpg",Warner
+http://203.154.177.124:8899/live/ch12/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-11-10-024952.jpg",Warner
+http://203.154.243.89:1205
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-20-061502.jpg",LOTUS MACAU
+https://cdn6.goprimetime.info/feed/LC41/index.m3u8
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://il.mahidol.ac.th/upload/img/2020-09-20-062407.jpg",Zee หนัง
+https://cdnlive.goprimetime.info/feed/chzeenung/index.m3u8
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://www.digitaltveurope.com/files/2019/10/cilogo_500px.png",Crime+ Investigation
+http://203.154.177.124:8899/live/ch23/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://f.ptcdn.info/204/072/000/qmo17g5mzW350RxWq4o-o.png",True Film HD
+http://160.119.77.116:8081/iptv/hd-tfilm.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://f.ptcdn.info/204/072/000/qmo17gaymBHehnuw13Z-o.png",True Thai Film
+http://160.119.77.116:8081/iptv/sd-thaifilm.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://f.ptcdn.info/204/072/000/qmo17gb71OCwDTrKXHC-o.png",True Asian Series HD
+http://160.119.77.116:8081/iptv/hd-asian.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://f.ptcdn.info/204/072/000/qmo17gp0s4STXycwqX9-o.png",240. True Series
+http://160.119.77.116:8081/iptv/sd-series.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie"tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/tvn.png",tvN
+http://160.119.77.116:8081/iptv/hd-tvn.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704505.jpeg",OX Family Movies
+https://www.livedoomovies.com/02_FoxFamilyHD_TH_720p/chunklist.m3u8
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/kbs-world-hd.png,KBS World HD
+http://160.119.77.116:8081/iptv/hd-kbsworld.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.we-play.tv//uploads/posters/-poster1602704632.jpeg",Paramount Channel
+http://203.154.177.124:8899/live/ch3/playlist.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://freetvdd.com/wp-content/uploads/2019/12/ccm-1.png",Celestial Classic Movies
+http://160.119.77.116:8081/iptv/sd-celestial.stream/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/KIX_Thailand.png",Kix
+https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Thrill.png",Thrill
+http://203.154.177.124:8899/live/ch21/playlist.m3u8
+#EXTINF:-1 group-title="Movie" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/Thrill.png",Thrill
+http://45.126.83.51/qwr9ew/s/s34/index.m3u8
+
+
+=======================================================
